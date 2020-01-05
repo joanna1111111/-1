@@ -1,0 +1,40 @@
+2020-01-05 17:53:09,764 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO E:\pytest01\data\接口测试示例.xlsx
+2020-01-05 17:53:09,766 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO 工作表1
+2020-01-05 17:53:11,068 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': True})
+2020-01-05 17:53:11,303 E:\pytest01\scripts\test_case.py INFO ({'success': False}, {'success': False})
+2020-01-05 17:53:11,726 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': False})
+2020-01-05 17:53:38,121 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO E:\pytest01\data\接口测试示例.xlsx
+2020-01-05 17:53:38,121 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO 工作表1
+2020-01-05 17:53:38,835 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': True})
+2020-01-05 17:53:39,064 E:\pytest01\scripts\test_case.py INFO ({'success': False}, {'success': False})
+2020-01-05 17:53:39,567 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': False})
+2020-01-05 17:55:24,657 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO E:\pytest01\data\接口测试示例.xlsx
+2020-01-05 17:55:24,657 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO 工作表1
+2020-01-05 17:55:25,366 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': True})
+2020-01-05 17:55:27,639 E:\pytest01\scripts\test_case.py INFO ({'success': False}, {'success': False})
+2020-01-05 17:55:28,517 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': False})
+2020-01-05 17:58:45,010 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO E:\pytest01\data\接口测试示例.xlsx
+2020-01-05 17:58:45,010 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO 工作表1
+2020-01-05 17:58:49,148 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': True})
+2020-01-05 17:58:49,365 E:\pytest01\scripts\test_case.py INFO ({'success': False}, {'success': False})
+2020-01-05 17:58:50,191 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': False})
+2020-01-05 18:01:45,671 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO E:\pytest01\data\接口测试示例.xlsx
+2020-01-05 18:01:45,672 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO 工作表1
+2020-01-05 18:01:46,639 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': True})
+2020-01-05 18:01:47,127 E:\pytest01\scripts\test_case.py INFO ({'success': False}, {'success': False})
+2020-01-05 18:01:48,435 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': False})
+2020-01-05 18:02:43,165 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO E:\pytest01\data\接口测试示例.xlsx
+2020-01-05 18:02:43,165 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO 工作表1
+2020-01-05 18:02:45,777 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': True})
+2020-01-05 18:02:45,980 E:\pytest01\scripts\test_case.py INFO ({'success': False}, {'success': False})
+2020-01-05 18:02:46,436 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': False})
+2020-01-05 18:02:54,936 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO E:\pytest01\data\接口测试示例.xlsx
+2020-01-05 18:02:54,937 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO 工作表1
+2020-01-05 18:02:55,733 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': True})
+2020-01-05 18:02:56,245 E:\pytest01\scripts\test_case.py INFO ({'success': False}, {'success': False})
+2020-01-05 18:02:56,867 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': False})
+2020-01-05 18:04:40,614 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO E:\pytest01\data\接口测试示例.xlsx
+2020-01-05 18:04:40,614 file:E:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO 工作表1
+2020-01-05 18:04:41,487 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': True})
+2020-01-05 18:04:42,731 E:\pytest01\scripts\test_case.py INFO ({'success': False}, {'success': False})
+2020-01-05 18:04:44,121 E:\pytest01\scripts\test_case.py INFO ({'success': True}, {'success': False})
