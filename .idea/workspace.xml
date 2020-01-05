@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23766826-1dd6-4d92-aace-83efa0dbd2bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/sendmessage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/report/assets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/report/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/test_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test_case.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/conf/zip.py" afterDir="false" />
-    </list>
+    <list default="true" id="23766826-1dd6-4d92-aace-83efa0dbd2bb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#2#15#0" expanded="true" />
               </folding>
@@ -172,6 +160,11 @@
               <item name="pytest01" type="b2602c69:ProjectViewProjectNode" />
               <item name="pytest01" type="462c0819:PsiDirectoryNode" />
               <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pytest01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytest01" type="462c0819:PsiDirectoryNode" />
+              <item name="until" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -348,7 +341,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
@@ -449,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#2#15#0" expanded="true" />
           </folding>
