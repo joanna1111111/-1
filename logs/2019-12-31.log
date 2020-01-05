@@ -1,0 +1,17 @@
+2019-12-31 12:01:48,968 接口测试 INFO aaaa
+2019-12-31 12:01:49,059 接口测试 WARNING aaaa
+2019-12-31 12:04:03,258 接口测试 INFO aaaa
+2019-12-31 12:04:03,258 接口测试 WARNING aaaa
+2019-12-31 12:19:02,214 <__main__.GetExcelData object at 0x0000019820D4BE10> INFO D:\pytest01\data\接口测试示例.xlsx
+2019-12-31 12:19:49,410 <class '__main__.GetExcelData'> INFO D:\pytest01\data\接口测试示例.xlsx
+2019-12-31 12:24:41,101 file:D:/pytest01/until/GetExcel.py,class:<class '__main__.GetExcelData'> INFO D:\pytest01\data\接口测试示例.xlsx
+2019-12-31 12:25:32,521 file:D:/pytest01/until/GetExcel.py,class:<class '__main__.GetExcelData'> INFO D:\pytest01\data\接口测试示例.xlsx
+2019-12-31 12:25:32,558 file:D:/pytest01/until/GetExcel.py,class:<class '__main__.GetExcelData'> INFO 工作表1
+2019-12-31 12:26:32,026 file:D:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO D:\pytest01\data\接口测试示例.xlsx
+2019-12-31 12:26:32,027 file:D:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO 工作表1
+2019-12-31 12:28:29,638 file:D:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO D:\pytest01\data\接口测试示例.xlsx
+2019-12-31 12:28:29,638 file:D:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO 工作表1
+2019-12-31 12:32:24,890 file:D:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO D:\pytest01\data\接口测试示例.xlsx
+2019-12-31 12:32:24,891 file:D:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO 工作表1
+2019-12-31 12:32:34,779 file:D:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO D:\pytest01\data\接口测试示例.xlsx
+2019-12-31 12:32:34,779 file:D:\pytest01\until\GetExcel.py,class:<class 'until.GetExcel.GetExcelData'> INFO 工作表1
