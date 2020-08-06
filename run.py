@@ -7,4 +7,6 @@ from conf.sendmessage import send_message
 if __name__ == '__main__':
     pytest.main()
     zip()#
+    print('1234')
+    print('56188')
     send_message()
